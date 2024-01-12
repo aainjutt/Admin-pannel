@@ -60,7 +60,7 @@ function ProductList() {
 
   return (
     <div className='productList'>
-         <DataGrid
+      <DataGrid
         rows={data}
         disableSelectionOnClick
         columns={columns}

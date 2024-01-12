@@ -1,19 +1,22 @@
-.userList{
+.userList {
     flex: 4;
 }
-.userListUser{
+
+.userListUser {
     display: flex;
     align-items: center;
 
 }
-.userListImg{
+
+.userListImg {
     width: 32px;
     height: 32px;
     border-radius: 50%;
     object-fit: cover;
     margin-right: 10px;
 }
-.userListEdit{
+
+.userListEdit {
     border: none;
     border-radius: 10px;
     padding: 5px 10px;
@@ -22,7 +25,8 @@
     cursor: pointer;
     margin-right: 20px;
 }
-.userListDelete{
+
+.userListDelete {
     color: red;
     cursor: pointer;
 }

@@ -1,12 +1,14 @@
-.container{
+.container {
   display: flex;
   margin-top: 10px;
 }
-.others{
+
+.others {
   flex: 4;
   /* background-color: darkcyan; */
 }
-.link{
+
+.link {
   text-decoration: none;
   color: inherit;
 }
